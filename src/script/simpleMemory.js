@@ -121,8 +121,8 @@ if (initCheck()) {
             spinner: {
                 id: 'spinner',
                 radius: 90,
-                sides: 3,
-                depth: 4,
+                sides: 6,
+                depth: 3,
                 colors: {
                     background: '#f0f0f0',
                     stroke: '#272633',
