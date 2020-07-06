@@ -93,7 +93,7 @@ if (initCheck()) {
     window.cnblogsConfigDefault = {
         GhUserName: 'ZinYY',
         GhRepositories: 'Cnblogs-Theme-SimpleMemory',
-        GhVersions: 'v1.3.1_qyy2',
+        GhVersions: 'v1.3.1_zinyy2',
         CnVersions: "",
         blogUser: "",
         blogAvatar: "",
