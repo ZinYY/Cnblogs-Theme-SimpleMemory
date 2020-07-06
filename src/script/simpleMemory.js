@@ -93,7 +93,7 @@ if (initCheck()) {
     window.cnblogsConfigDefault = {
         GhUserName: 'ZinYY',
         GhRepositories: 'Cnblogs-Theme-SimpleMemory',
-        GhVersions: 'v1.3.1',
+        GhVersions: 'v1.3.1_qyy2',
         CnVersions: "",
         blogUser: "",
         blogAvatar: "",
@@ -110,8 +110,8 @@ if (initCheck()) {
         progressBar: {
             id: 'top-progress-bar',
             color: '#77b6ff',
-            height: '4px',
-            duration: 0.1
+            height: '10px',
+            duration: 0
         },
         loading: {
             rebound: {
@@ -171,7 +171,7 @@ if (initCheck()) {
             ribbonCount: 3,
             strokeSize: 0,
             parallaxAmount: -0.2,
-            animateSections: true
+            animateSections: false
         },
         homeTopImg: [
             // "https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@master/img/webp/home_top_bg.webp"
